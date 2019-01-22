@@ -1,0 +1,10 @@
+body
+{
+	background-image: url("background.jpg");
+}
+p{
+text-shadow: 2px 2px gray;
+font-size: 30px;
+margin-left: 20px;
+text-align: center;
+}
